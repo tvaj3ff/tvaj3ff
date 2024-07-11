@@ -12,7 +12,6 @@
 #Top repositories
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tvaj3ff&repo=WebScrapingProject&theme=holi&show_icons=true)](https://github.com/tvaj3ff/WebScrapingProject)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tvaj3ff&repo=top100movies_telegrambot&theme=holi&show_icons=true)](https://github.com/tvaj3ff/top100movies_telegrambot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tvaj3ff&repo=dentistDjango&theme=holi&show_icons=true)](https://github.com/tvaj3ff/dentistDjango)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tvaj3ff&repo=pdf_to_mp3_converter&theme=holi&show_icons=true)](https://github.com/tvaj3ff/pdf_to_mp3_converter)
 
